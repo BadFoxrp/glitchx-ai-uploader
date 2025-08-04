@@ -1,0 +1,4 @@
+moviepy
+python-dotenv
+imageio-ffmpeg
+pillow
