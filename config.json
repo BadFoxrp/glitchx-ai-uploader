@@ -1,0 +1,6 @@
+{
+  "youtube_api_key": "YOUR_API_KEY",
+  "tiktok_username": "your_username",
+  "tiktok_password": "your_password",
+  "language": ["en", "lt"]
+}
